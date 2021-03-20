@@ -1,0 +1,13 @@
+<html>
+<head> 
+<title> SAMPLE PROJECT </title> 
+</head> 
+<body> 
+<h1> PAVAN SAI THIRUPATHI </h1> 
+<h2> PAVAN SAI THIRUPATHI </h2> 
+<h3> PAVAN SAI THIRUPATHI </h3> 
+<h4> PAVAN SAI THIRUPATHI </h4>
+<h5> PAVAN SAI THIRUPATHI </h5> 
+<h6> PAVAN SAI THIRUPATHI </h6>
+</body>
+</html>
